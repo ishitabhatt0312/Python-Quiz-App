@@ -121,3 +121,25 @@ Provide a review option to revisit incorrect answers after completing the quiz.
 
 ![Alt Text](https://github.com/user-attachments/assets/d2f7efb9-5b3b-4db2-b739-0addbdfa0416)
 
+
+
+
+
+
+
+
+
+![Alt Text](https://github.com/user-attachments/assets/14f645fe-60a3-4e66-8ad3-387bd0c05d9f)
+
+
+
+
+
+
+
+
+
+![Alt Text](https://github.com/user-attachments/assets/c8904b9a-96c6-4c46-9a7e-ba2061767fa1)
+
+
+
