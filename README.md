@@ -102,15 +102,15 @@ Below the options, a button labeled "Submit Answer" validates the selection and 
 
 ## **4. Potential Enhancements**
 
-Add a restart feature to allow replaying without restarting the program.
+- Add a restart feature to allow replaying without restarting the program.
 
-Include a timer to make the quiz time-bound.
+- Include a timer to make the quiz time-bound.
 
-Add categories or difficulty levels for questions.
+- Add categories or difficulty levels for questions.
 
-Use a scoreboard to track high scores across sessions.
+- Use a scoreboard to track high scores across sessions.
 
-Provide a review option to revisit incorrect answers after completing the quiz.
+- Provide a review option to revisit incorrect answers after completing the quiz.
 
 
 
