@@ -85,3 +85,10 @@ Incorrect: Correct answer is displayed.
 
 The app moves to the next question until all questions are answered.
 After the last question, the final score is displayed in a message box, and the app closes.
+
+## **4. GUI Layout**
+
+**Title:** The app window has a title, "Python Quiz App."
+**Question Label:** Displays the current question at the top.
+**Options:** Four radio buttons allow the user to select an answer.
+**Submit Button:** Below the options, a button labeled "Submit Answer" validates the selection and provides feedback.
