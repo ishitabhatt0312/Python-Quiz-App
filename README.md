@@ -111,3 +111,13 @@ Add categories or difficulty levels for questions.
 Use a scoreboard to track high scores across sessions.
 
 Provide a review option to revisit incorrect answers after completing the quiz.
+
+
+
+
+
+
+
+
+![Alt Text](https://github.com/user-attachments/assets/d2f7efb9-5b3b-4db2-b739-0addbdfa0416)
+
