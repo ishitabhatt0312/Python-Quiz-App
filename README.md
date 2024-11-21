@@ -37,10 +37,48 @@ Ends the quiz when all questions are answered.
 
 Displays the user’s total score at the end of the quiz in a message box.
 
-**Additional Features:**
+## **Additional Features:**
 
 **1. Error Handling:**
 Warns the user if no answer is selected before submission.
 
 **2. Replayability:**
 Can be restarted by re-running the app.
+
+
+## **3. How It Works**
+
+### **Setup**
+
+A list of questions, options, and correct answers is pre-defined in a dictionary format (quiz list).
+
+Each question in the quiz contains:
+
+1. The question text.
+2. Four options.
+3. The correct answer.
+4. Question Flow
+5. Loading a Question:
+
+The current question is fetched from the quiz list.
+The question text and its options are dynamically loaded into the GUI widgets.
+The answer selection variable (answer_var) is reset.
+
+**Answer Submission:**
+
+The user selects an option using the radio buttons.
+
+**On clicking "Submit Answer":**
+
+The app checks if an answer is selected.
+Compares the selected answer with the correct answer in the quiz.
+
+**Feedback is shown using messagebox:**
+
+Correct: Score is incremented.
+Incorrect: Correct answer is displayed.
+
+**Quiz Completion:**
+
+The app moves to the next question until all questions are answered.
+After the last question, the final score is displayed in a message box, and the app closes.
