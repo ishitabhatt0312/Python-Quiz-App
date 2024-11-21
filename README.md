@@ -12,27 +12,27 @@ This app is suitable for beginner-level programming quizzes and can be extended 
 
 ### **Core Features:**
 
-**Question Display:**
+**1. Question Display:**
 
 Displays one question at a time in a text label.
 Provides four answer options using radio buttons.
 
-**Answer Selection:**
+**2. Answer Selection:**
 
 Allows the user to select one of the four options.
 
-**Answer Validation:**
+**3. Answer Validation:**
 
 Validates the selected answer when the "Submit Answer" button is pressed.
 Provides immediate feedback using message boxes:
 Correct Answer: A congratulatory message.
 Incorrect Answer: Displays the correct answer.
 
-**Progression through Questions:**
+**4. Progression through Questions:**
 
 Moves to the next question automatically after submission.
 Ends the quiz when all questions are answered.
 
-**Final Score Display:**
+**5. Final Score Display:**
 
 Displays the user’s total score at the end of the quiz in a message box.
