@@ -37,7 +37,7 @@ Ends the quiz when all questions are answered.
 
 Displays the user’s total score at the end of the quiz in a message box.
 
-## **Additional Features:**
+### **Additional Features:**
 
 **1. Error Handling:**
 Warns the user if no answer is selected before submission.
@@ -59,7 +59,7 @@ Each question in the quiz contains:
 3. The correct answer.
 
 
-## **Question Flow**
+### **Question Flow**
 
 **1. Loading a Question:**
 
