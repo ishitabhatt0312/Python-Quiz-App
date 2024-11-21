@@ -36,3 +36,11 @@ Ends the quiz when all questions are answered.
 **5. Final Score Display:**
 
 Displays the user’s total score at the end of the quiz in a message box.
+
+**Additional Features:**
+
+**1. Error Handling:**
+Warns the user if no answer is selected before submission.
+
+**2. Replayability:**
+Can be restarted by re-running the app.
